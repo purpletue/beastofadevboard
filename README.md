@@ -23,4 +23,6 @@ BEEFCAKE isn't just a microcontroller board; it's a statement. Built out of shee
 * **Network:** W5500 SPI Ethernet Controller + RJ45 with integrated magnetics.
 
 ---
-*Built with too many hours, too much caffeine, and absolute disregard for minimalist design.*
+
+### Serious now: AI Usage declaration.
+This project uses AI in the README.md and nowhere else.
